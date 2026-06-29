@@ -1,0 +1,66 @@
+Política de reembolsos y devoluciones
+
+1. Marco Legal y Ámbito de Aplicación  
+La presente Política de Reembolsos y Devoluciones de AntiumGear Ltda. se rige bajo el 
+estricto cumplimiento de la Ley N° 19.496 sobre Protección de los Derechos de los 
+Consumidores en la República de Chile. Este documento establece los derechos, plazos y 
+procedimientos que regulan a todos los clientes que adquieran componentes de hardware, 
+periféricos, equipos armados u otros productos tecnológicos a través de nuestros canales 
+presenciales o plataformas de comercio electrónico.  
+2. Derecho de Retracto Comercial  
+Conforme a las modificaciones introducidas por la Ley del Proconsumidor, AntiumGear 
+reconoce el Derecho de Retracto para compras realizadas a través de medios electrónicos (e -
+commerce). El consumidor dispondrá de un plazo de 10 días contados desde la recepción del 
+producto para rescindir el contrato de compraventa sin expresión de causa. Para ejercer este 
+derecho, el producto debe ser devuelto en perfectas condiciones, con sus sellos de fábrica 
+intactos, embalajes originales sin aperturas y con todos sus accesorios completos.  
+3. Garantía Legal (6 Meses)  
+En caso de que un producto presente fallas técnicas de fabricación, fallas estructurales o no 
+sea apto para el uso natural al que está destinado, el consumidor tiene derecho a la Garantía 
+Legal de 6 meses, contados desde la fecha de recepción o retiro del producto. El cliente podrá 
+optar libremente entre tres opciones legítimas: (1) Reparación gratuita del producto previa 
+evaluación, (2) Cambio por un producto nuevo idéntico o de similares características, o (3) 
+Devolución total del dinero pagado.  
+4. Protocolo de Diagnóstico y Servicio Técnico (ST)  
+Para hacer efectiva la Garantía Legal, todo componente de hardware (tales como tarjetas 
+de video, procesadores, placas madre o fuentes de poder) debe ser sometido obligatoriamente 
+a un proceso de revisión y diagnóstico técnico en el Servicio Técnico de AntiumGear o en el 
+taller autorizado de la marca en Chile. Este proceso tiene como única finalidad verificar de 
+forma objetiva que la falla reportada tenga un origen de fábrica y que no haya sido causada por 
+un uso indebido, sobrevoltaje, manipulación incorrecta, daño físico accidental o negligencia por 
+parte del usuario. El plazo máximo para la emisión del informe técnico de diagnóstico es de 15 
+días hábiles desde la recepción física del artículo.  
+5. Condiciones de los Productos para Devolución  
+Para que un cambio o devolución por retracto o falla validada sea procesado, el cliente 
+deberá presentar obligatoriamente la boleta, factura o guía de despacho que acredite la compra 
+en AntiumGear. En caso de retracto, las cajas, manuales, cables, bolsas térmicas o 
+antiestáticas y códigos de juegos promocionales deben ser devueltos exactamente en el mismo 
+estado en que fueron entregados. No se aceptarán devoluciones por retracto de componentes 
+de hardware que muestren signos de haber sido atornillados, instalados, o cuyas etiquetas de 
+número de serie hayan sido removidas o alteradas.  
+6. Procedimiento para Solicitar un Reembolso o Cambio  
+El cliente deberá iniciar el requerimiento formal enviando un correo electrónico a 
+contacto@antiumgear.cl indicando el número de boleta o factura, el número de serie del 
+componente y una descripción detallada del motivo de la solicitud. Posteriormente, deberá 
+hacer llegar el producto de forma presencial a nuestras dependencias o costear el envío a 
+través de empresas logísticas autorizadas. En caso de que el diagnóstico determine una falla 
+de fábrica bajo la Garantía Legal, AntiumGear reembolsará los costos de envío incurridos por el 
+cliente.  
+7. Plazos y Métodos de Reversión de Fondos  
+Una vez aprobado el reembolso del dinero (sea por retracto o por falla de fábrica validada), 
+AntiumGear gestionará la reversión de los fondos de acuerdo con el medio de pago original 
+utilizado por el cliente:  
+• Transferencia Bancaria o Tarjeta de Débito: El reembolso se efectuará mediante 
+transferencia electrónica directa a la cuenta provista por el titular de la compra en un plazo 
+máximo de 5 a 7 días hábiles.  
+• Tarjeta de Crédito: Se solicitará la anulación del cargo a la pasarela de pagos 
+correspondiente (Webpay/Transbank u otra), proceso que puede tardar entre 10 y 15 días 
+hábiles en verse reflejado en el estado de cuenta del cliente, dependiendo exclusivamente 
+de los tiempos bancarios de la institución emisora.  
+8. Exclusiones de Garantía  
+Quedan completamente excluidos de la cobertura de garantía los siguientes eventos: daños 
+provocados por cortes de energía, fluctuaciones de voltaje o uso de fuentes de poder no 
+certificadas; incompatibilidad de software o BIOS modificadas de forma errónea por el usuario; 
+quema de componentes por prácticas de overclocking extremo que excedan los límites del 
+fabricante; y daños físicos visibles como pines doblados en placas madre, rayones en los 
+circuitos o quiebres por caídas.  

@@ -1,0 +1,66 @@
+Términos y condiciones
+
+1. Aspectos Generales y Aceptación de los Términos  
+Bienvenido a AntiumGear. Los presentes Términos y Condiciones regulan de forma 
+vinculante el acceso, uso y transacciones comerciales realizadas en nuestro sitio web de 
+comercio electrónico por parte de cualquier persona natural o jurídica (en adelante, el 'Usuario' 
+o 'Cliente'). Al ingresar, navegar o realizar una transacción en este sitio, el Usuario acepta de 
+manera expresa, informada y sin reservas la totalidad de las cláusulas contenidas en este 
+documento, así como la normativa legal vigente en la República de Chile en materia de 
+protección al consumidor y comercio electrónico.  
+2. Capacidad Legal del Usuario y Registro de Cuentas  
+Para efectuar compras en la plataforma, el Usuario debe contar con la capacidad legal 
+necesaria para contratar de acuerdo con las leyes chilenas. Las transacciones están 
+destinadas exclusivamente a usuarios finales. Si bien el sitio permite la navegación libre y la 
+compra en modalidad de 'Invitado', el registro de una cuenta de usuario otorgará acceso a un 
+panel privado de seguimiento. El Usuario es el único responsable de mantener la 
+confidencialidad de sus credenciales de acceso y de las actividades que se ejecuten bajo su 
+cuenta.  
+3. Mecanismo de Compra y Validación de Stock de Hardware  
+El proceso de compra en el sitio web se inicia al agregar componentes tecnológicos al carro 
+de compras virtual y completar el formulario de facturación y despacho. Debido a la alta 
+demanda y dinamismo en el mercado de hardware de alta gama (tarjetas de video, 
+procesadores y memorias), toda orden de compra generada en el sitio quedará sujeta a una 
+validación obligatoria por parte de AntiumGear. Esta validación comprenderá: (1) La 
+disponibilidad real de stock físico en nuestros almacenes centrales, (2) La validación de los 
+datos de facturación provстов, y (3) La confirmación de la autorización del pago por parte de la 
+entidad financiera emisora. El contrato de compraventa se entenderá perfeccionado 
+únicamente cuando AntiumGear envíe la confirmación escrita y la boleta o factura electrónica al 
+correo del cliente.  
+4. Condiciones de Precios, Impuestos y Medios de Pago  
+Todos los precios exhibidos en el portal web de AntiumGear están expresados en pesos 
+chilenos (CLP) e incluyen de manera desglosada el Impuesto al Valor Agregado (IVA) 
+correspondiente al 19%. La Empresa se reserva el derecho de modificar los precios publicados 
+en cualquier momento y sin previo aviso, sin que esto afecte a los pedidos que ya hayan sido 
+validados y confirmados previamente por escrito. Los medios de pago autorizados son 
+exclusivamente aquellos provistos de forma segura en la pasarela de pagos integrada de la 
+plataforma, que admite tarjetas de débito, crédito y transferencias electrónicas directas.  
+5. Despacho, Tiempos de Entrega y Transferencia del Riesgo  
+Los despachos se realizarán directamente al consumidor final bajo las condiciones 
+establecidas en nuestra Guía de Envíos y Entregas vigente. Los plazos de transporte corren a 
+partir del momento en que el paquete es procesado y entregado al operador logístico 
+(Chilexpress o Starken). La transferencia del riesgo sobre los productos tecnológicos (pérdida, 
+daño físico o deterioro) se traspasa de AntiumGear al Cliente en el instante exacto en que el 
+producto es entregado físicamente en el domicilio estipulado en la orden de compra, o al 
+momento de su retiro en las sucursales autorizadas del courier.  
+6. Propiedad Intelectual e Industrial de la Plataforma  
+Todos los contenidos del sitio web, incluyendo de forma enunciativa pero no limitativa: 
+logotipos, marcas comerciales, diseños de interfaz, textos, gráficos, códigos fuente, código de 
+programación, imágenes y compilaciones de datos son de propiedad exclusiva de AntiumGear 
+Ltda. o de sus respectivos fabricantes de hardware asociados. Queda estrictamente prohibida 
+la reproducción total o parcial, explotación, distribution o ingeniería inversa de cualquier 
+elemento del sitio sin la autorización previa, expresa y por escrito de la Empresa.  
+7. Responsabilidad del Usuario y Uso Correcto del Sitio  
+El Usuario se obliga a utilizar este sitio web exclusivamente para fines lícitos, de buena fe y 
+en estricta conformidad con la moral y el orden público. Queda categóricamente prohibido 
+realizar cualquier acción que pueda dañar, sobrecargar o inhabilitar la infraestructura 
+tecnológica del portal, tales como ataques de denegación de servicio (DDoS), inyección de 
+scripts maliciosos (SQL Injection) o el uso de bots, scrapers o software automatizado para 
+extraer datos de precios o stock sin consentimiento.  
+8. Jurisdicción Aplicable, Competencia y Solución de Controversias  
+Cualquier dificultad, controversia o reclamo que se derive de la interpretación, aplicación o 
+ejecución de estos Términos y Condiciones, o de las transacciones comerciales realizadas en 
+el sitio, se regirá bajo las leyes sustantivas y procesales de la República de Chile. Las partes 
+acuerdan someterse a la mediación de las instancias del Servicio Nacional del Consumidor 
+(SERNAC) y, en subsidio, fijan su domicilio en la comuna y ciudad de Santiago para prorrogar 
+la competencia ante sus Tribunales Ordinarios de Justicia.  
