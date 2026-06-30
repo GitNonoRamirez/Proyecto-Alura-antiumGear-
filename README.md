@@ -3,7 +3,11 @@
 </p>
 
 # 🤖 Asistente Virtual – AntiumGear Ltda.
-El asistente virtual de **AntiumGear Ltda.** ayuda a los compradores en línea respondiendo dudas sobre políticas de privacidad, reembolsos, envíos y términos de uso, basándose en documentos oficiales de la empresa.
+AntiumGear Ltda. es una empresa ficticia dedicada a la importación, distribución y comercialización de hardware avanzado.  
+Forma parte de la marca **Antium**, utilizada por el creador de este repositorio para el desarrollo de proyectos tecnológicos personales como aplicaciones web y análisis de datos.  
+En este repositorio se presenta un **asistente virtual corporativo** para AntiumGear Ltda., diseñado para apoyar a los compradores en línea respondiendo consultas sobre políticas de privacidad, reembolsos, envíos y términos de uso.  
+El sistema se fundamenta en documentos oficiales de la empresa, garantizando respuestas claras y consistentes para mejorar la experiencia del cliente.
+
 ## 📂 Documentos oficiales
 
 | Documento                  | Categoría   | Responsable (Área)   | Estado   | Link |
