@@ -1,0 +1,49 @@
+Matriz de Preguntas Frecuentes (FAQ) – AntiumGear Ltda.
+
+Módulo 4: Garantía Legal y Servicio Técnico (Garantías)  
+• Pregunta: ¿Qué plazo tengo si un componente tecnológico presenta una falla de fábrica?  
+  Respuesta: De acuerdo con la legislación vigente en Chile, cuentas con una Garantía Legal 
+de 6 meses desde la recepción del producto.  
+• Pregunta: ¿Qué opciones me da la Garantía Legal ante un desperfecto real?  
+  Respuesta: Puedes elegir libremente entre: (1) Reparación gratuita, (2) Reemplazo por un 
+componente nuevo idéntico, o (3) Devolución total del dinero.  
+• Pregunta: ¿Por qué mi tarjeta de video o procesador debe ingresar a Servicio Técnico?  
+  Respuesta: Para verificar técnicamente que la falla se debe a un defecto de fabricación 
+original y no a causas externas, negligencia o mal uso.  
+• Pregunta: ¿Cuánto tiempo tarda el diagnóstico técnico de AntiumGear?  
+  Respuesta: El plazo máximo de revisión y emisión del informe técnico oficial es de 15 días 
+hábiles desde el ingreso físico del hardware al laboratorio.  
+• Pregunta: ¿La garantía cubre si se quema un componente por overclocking?  
+  Respuesta: No, las modificaciones de frecuencia, sobrevoltajes extremos o alteración de BIOS 
+que excedan los límites de fábrica anulan por completo la garantía.  
+• Pregunta: ¿Qué pasa si mi placa madre viene con pines doblados en el socket?  
+  Respuesta: Los daños físicos visibles (pines doblados, circuitos rayados, golpes) se presumen 
+por manipulación incorrecta y están excluidos de la garantía legal.  
+• Pregunta: ¿Qué ocurre si el Servicio Técnico determina que la falla es de fábrica?  
+  Respuesta: Se procederá de inmediato a ejecutar la opción elegida por el cliente (reparación, 
+cambio o devolución) sin costo alguno.  
+• Pregunta: ¿AntiumGear paga el envío si el hardware falla por garantía dentro de los 6 
+meses?  
+  Respuesta: Sí, si el Servicio Técnico valida formalmente que el desperfecto es de fábrica, la 
+empresa reembolsará los gastos de transporte correspondientes.  
+• Pregunta: ¿La garantía legal cubre problemas de incompatibilidad de software o juegos?  
+  Respuesta: No, la garantía legal aplica exclusivamente ante fallas físicas de hardware o vicios 
+ocultos de fabricación, no por rendimiento de software de terceros.  
+• Pregunta: ¿Qué pasa si reparan mi hardware, se renueva el plazo de garantía?  
+  Respuesta: El componente reparado mantiene el remanente de su garantía original, pero el 
+tiempo que permaneció en el laboratorio técnico no se computa en tu contra.  
+• Pregunta: ¿Puedo exigir el cambio inmediato de un procesador sin que lo revisen?  
+  Respuesta: No, la ley faculta al comercio a realizar un diagnóstico técnico objetivo previo para 
+constatar la naturaleza y origen de la avería denunciada.  
+• Pregunta: ¿Qué exclusiones de energía tiene la garantía de hardware?  
+  Respuesta: Quedan excluidos los daños causados por fluctuaciones de voltaje de la red 
+eléctrica, cortes de luz o el uso de fuentes de poder no certificadas.  
+• Pregunta: ¿La garantía cubre si el producto fue manipulado por técnicos externos?  
+  Respuesta: Cualquier desarme, alteración de sellos de fábrica o intento de reparación por 
+talleres no autorizados extingue de inmediato la cobertura de garantía.  
+• Pregunta: ¿Puedo hacer valer la garantía si perdí la boleta original?  
+  Respuesta: Debes presentar un comprobante que acredite inequívocamente la compra 
+(cartola bancaria, número de transacción electrónica) para rastrear tu documento.  
+• Pregunta: ¿Qué pasa si el producto de reemplazo no está disponible en stock?  
+  Respuesta: Si eliges el cambio pero el hardware está descontinuado o agotado, podrás elegir 
+otro componente del mismo valor o solicitar la devolución del dinero

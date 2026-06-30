@@ -1,0 +1,49 @@
+Matriz de Preguntas Frecuentes (FAQ) – AntiumGear Ltda.
+
+Módulo 8: Situaciones Especiales y Casos Borde (Casos 
+Operacionales)  
+• Pregunta: ¿Qué pasa si compro un hardware y el precio cambió un minuto después?  
+  Respuesta: El precio aplicado a tu compra es el que aceptaste en el carro de compras al 
+pagar. Modificaciones posteriores no tienen carácter retroactivo.  
+• Pregunta: ¿El Servicio Técnico atiende consultas de soporte para armar mi PC?  
+  Respuesta: Nuestro laboratorio valida fallas de componentes específicos bajo garantía. No 
+presta servicios de asesoría general de armado o modding casero.  
+• Pregunta: ¿Qué hago si mi pedido llegó incompleto (ej. faltaron los cables)?  
+  Respuesta: Escribe de inmediato a contacto@antiumgear.cl adjuntando imágenes del 
+empaque y de los productos recibidos para auditar las grabaciones de embalaje.  
+• Pregunta: ¿Puedo transferir la garantía legal de mi componente a otra persona?  
+  Respuesta: La garantía legal se asocia al documento tributario de compra (boleta o factura). 
+Quien posea el documento legal puede hacer valer el derecho.  
+• Pregunta: ¿Qué pasa si el transportista declara mi encomienda como pérdida total?  
+  Respuesta: AntiumGear activará los seguros corporativos logísticos y gestionará de manera 
+directa el envío de un nuevo producto sin costo para ti.  
+• Pregunta: ¿Puedo pagar el costo de despacho contra entrega (por pagar)?  
+  Respuesta: No, para garantizar la fluidez de las rutas de entrega de Chilexpress y Starken, 
+todos los costos de envío deben ser prepagados en la web.  
+• Pregunta: ¿Qué ocurre si compré por error un componente físico incompatible?  
+  Respuesta: Si permanece completamente sellado y sin uso, puedes acogerte al derecho de 
+retracto comercial dentro de los primeros 10 días corridos.  
+• Pregunta: ¿Cómo sé si un componente requiere fuente de poder certificada?  
+  Respuesta: En las especificaciones del producto detallamos los requisitos mínimos de Watts 
+recomendados por el fabricante para una operación segura.  
+• Pregunta: ¿Tienen algún sistema de reservas para lanzamientos globales de GPUs?  
+  Respuesta: Los lanzamientos de hardware de alta demanda se rigen bajo el mecanismo de 
+venta estándar con validación de stock físico en tiempo real.  
+• Pregunta: ¿Qué pasa si la pasarela de pagos me cobra dos veces el mismo pedido?  
+  Respuesta: Envíanos las dos cartolas o comprobantes de cobro para realizar la auditoría con 
+el proveedor de pagos y gestionar la reversión de inmediato.  
+• Pregunta: ¿Puedo pedir factura si compré inicialmente con boleta?  
+  Respuesta: La ley chilena limita el cambio posterior de documentos tributarios emitidos. Se 
+debe seleccionar la opción correspondiente previo al cierre de compra.  
+• Pregunta: ¿El empaque reforzado de AntiumGear tiene algún logo llamativo?  
+  Respuesta: Despachamos en empaques discretos y seguros con cintas inviolables de la 
+marca, evitando logos ostentosos que comprometan la seguridad de la carga.  
+• Pregunta: ¿Qué pasa si el informe técnico descarta una falla de fábrica?  
+  Respuesta: El hardware será puesto a disposición del cliente para su devolución o reenvío. 
+Los costos de transporte de retorno serán a cargo del usuario.  
+• Pregunta: ¿Puedo pagar mediante dólares norteamericanos (USD)?  
+  Respuesta: La plataforma opera de forma estándar procesando transacciones en Pesos 
+Chilenos (CLP) de curso legal de la República de Chile.  
+• Pregunta: ¿Qué pasa si el courier entrega mi pedido a un conserje en mi edificio?  
+  Respuesta: La recepción por parte del personal de conserjería autorizado por la copropiedad 
+se entiende legalmente como una entrega válida y conforme.  

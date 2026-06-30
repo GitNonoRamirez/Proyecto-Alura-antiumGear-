@@ -1,0 +1,386 @@
+Matriz de Preguntas Frecuentes (FAQ) – AntiumGear Ltda.
+
+1. Despacho, Cobertura y Couriers (Guía de Envíos)  
+• Pregunta: ¿Con qué empresas de envío trabaja AntiumGear?  
+  Respuesta: Realizamos todos nuestros despachos de manera directa a través de operadores 
+logísticos regulados de alta cobertura como Chilexpress y Starken. No trabajamos con 
+intermediarios mayoristas para garantizar una atención directa.  
+• Pregunta: ¿Cuánto tardan los envíos dentro de la Región Metropolitana?  
+  Respuesta: Para la Región Metropolitana, el plazo estimado de distribución es de 1 a 3 días 
+hábiles una vez entregado al courier.  
+• Pregunta: ¿Cuál es el tiempo de entrega para el resto de las regiones?  
+  Respuesta: Para las regiones del norte y sur de Chile, los plazos oscilan entre 2 y 5 días 
+hábiles desde que el pedido sale de nuestras dependencias.  
+• Pregunta: ¿Tienen cobertura en zonas extremas de Chile?  
+  Respuesta: Sí, enviamos a todo Chile continental. En zonas extremas (Arica, Tarapacá, Aysén 
+y Magallanes) el plazo de entrega puede extenderse hasta 7 o 10 días de corrido.  
+• Pregunta: ¿Puedo retirar mi pedido en alguna sucursal del transportista?  
+  Respuesta: Sí, durante el proceso de compra puedes seleccionar el despacho a domicilio o el 
+retiro directo en las oficinas habilitadas de Chilexpress o Starken.  
+• Pregunta: ¿Cómo se calculan los costos de envío?  
+  Respuesta: Se calculan dinámicamente según el peso físico o volumétrico del hardware, la 
+distancia desde Santiago y la modalidad de entrega seleccionada.  
+• Pregunta: ¿Qué pasa si mi gabinete o monitor es muy pesado?  
+  Respuesta: El carro de compras aplicará de forma automática las tarifas volumétricas 
+integradas mediante las APIs de Starken y Chilexpress antes del pago.  
+• Pregunta: ¿Hacen despachos internacionales?  
+  Respuesta: No, AntiumGear opera exclusivamente dentro del territorio nacional continental de 
+la República de Chile.  
+• Pregunta: ¿Puedo cambiar la dirección de despacho después de comprar?  
+  Respuesta: Solo si el pedido no ha sido entregado al courier. Debes contactar de inmediato a 
+contacto@antiumgear.cl indicando tu número de orden.  
+• Pregunta: ¿Los despachos se realizan los fines de semana?  
+  Respuesta: Los couriers operan principalmente de lunes a viernes. Los días sábado y 
+domingo no se consideran días hábiles de distribución estándar.  
+• Pregunta: ¿Qué seguridad tengo de que mi hardware no se golpeará en el viaje?  
+  Respuesta: Implementamos un protocolo estricto de embalaje reforzado y protección 
+antiestática sin costo adicional para minimizar riesgos mecánicos.  
+• Pregunta: ¿Por qué despachan componentes delicados de forma prioritaria?  
+  Respuesta: Para disminuir los transbordos en los centros de clasificación logística del courier, 
+mitigando vibraciones excesivas en procesadores o GPUs.  
+• Pregunta: ¿Entregan en casillas de correos o lugares sin dirección exacta?  
+  Respuesta: No, las empresas logísticas contratadas exigen una nomenclatura de calle válida y 
+numeración exacta para poder efectuar las entregas de manera segura.  
+• Pregunta: ¿Es obligatorio que yo reciba el paquete en mi hogar?  
+  Respuesta: No, cualquier persona adulta legalmente habilitada que se encuentre en el 
+domicilio puede recibir la carga firmando la guía de entrega.  
+• Pregunta: ¿Puedo agendar una hora exacta para recibir mi despacho?  
+  Respuesta: No, las entregas se realizan en horario abierto de distribución según las rutas 
+logísticas establecidas por Chilexpress y Starken.  
+
+2. Procesamiento, Stock y Validación (Términos y Condiciones)  
+• Pregunta: ¿Cuánto tarda AntiumGear en procesar y armar mi pedido?  
+  Respuesta: El procesamiento interno, control de números de serie y empaque seguro toma un 
+plazo de 24 a 48 horas hábiles previo al envío.  
+• Pregunta: ¿Por qué mi orden aparece en estado de validación técnica?  
+  Respuesta: Validamos el stock físico en tiempo real, verificamos la autenticidad de los datos 
+de facturación y confirmamos la acreditación monetaria del banco.  
+• Pregunta: ¿Cuándo se considera perfeccionado el contrato de compraventa?  
+  Respuesta: Únicamente cuando AntiumGear envía la confirmación formal por escrito 
+adjuntando la boleta o factura electrónica respectiva.  
+• Pregunta: ¿Qué pasa si compro un hardware y se agota el stock inmediatamente?  
+  Respuesta: En caso de inconsistencias de inventario, te notificaremos de inmediato para 
+ofrecerte un reemplazo equivalente o la devolución total de los fondos.  
+• Pregunta: ¿Los precios de la página web incluyen el IVA?  
+  Respuesta: Sí, todos los valores exhibidos en la plataforma e -commerce incluyen de manera 
+explícita el 19% del Impuesto al Valor Agregado.  
+• Pregunta: ¿Puedo solicitar una factura corporativa en vez de boleta?  
+  Respuesta: Sí, al momento de rellenar los datos de facturación en el carro de compras debes 
+seleccionar la opción de Factura e ingresar el RUT de tu empresa.  
+• Pregunta: ¿Qué medios de pago acepta la plataforma?  
+  Respuesta: Aceptamos tarjetas de débito, tarjetas de crédito (Visa, Mastercard, etc.) y 
+transferencias electrónicas a través de nuestra pasarela segura.  
+• Pregunta: ¿Es seguro ingresar mis datos bancarios en el sitio?  
+  Respuesta: Completamente. Toda la comunicación y pasarela de pago viaja protegida con 
+cifrado TLS 1.3 y los datos sensibles nunca quedan en nuestros servidores.  
+• Pregunta: ¿Tienen tiendas físicas de atención al público o retiro inmediato?  
+  Respuesta: No, operamos bajo un modelo de comercio electrónico directo, despachando de 
+forma segura directamente desde nuestros centros de distribución automatizados.  
+• Pregunta: ¿Puedo anular una compra antes de que me llegue la confirmación?  
+  Respuesta: Sí, puedes enviar un requerimiento a contacto@antiumgear.cl para frenar el 
+procesamiento si la boleta aún no ha sido emitida.  
+• Pregunta: ¿Qué pasa si hay un error evidente en el precio publicado (precio irrisorio)?  
+  Respuesta: AntiumGear se reserva el derecho de cancelar órdenes originadas por fallas 
+sistémicas evidentes, restituyendo el dinero de forma íntegra.  
+• Pregunta: ¿Puedo comprar desde regiones con tarjeta de crédito en cuotas?  
+  Respuesta: Sí, las facilidades de cuotas y tasas de interés asociadas dependen 
+exclusivamente del contrato vigente entre tú y tu banco emisor.  
+• Pregunta: ¿Las cotizaciones web aseguran el precio por varios días?  
+  Respuesta: Las cotizaciones o carritos guardados no aseguran stock ni congelan valores. Los 
+precios vigentes son los publicados al momento del pago efectivo.  
+• Pregunta: ¿El sistema permite compras masivas de hardware?  
+  Respuesta: La plataforma está orientada a consumidores finales. Compras que excedan 
+límites razonables pueden ser sujetas a una auditoría por riesgo de reventa.  
+• Pregunta: ¿Qué pasa si mi banco rechaza la transacción pero me hicieron el cobro?  
+  Respuesta: Debes comunicarte con tu institución financiera para verificar la reversión 
+automática. AntiumGear solo procesa órdenes aprobadas por la pasarela.  
+
+3. Derecho de Retracto Comercial (Reembolsos y Devoluciones)  
+• Pregunta: ¿Puedo devolver un producto si me arrepentí de la compra?  
+  Respuesta: Sí, dispones de un Derecho de Retracto legal de 10 días corridos a contar de la 
+fecha en que recibiste el producto en tu domicilio.  
+• Pregunta: ¿Cuáles son los requisitos para ejercer el derecho de retracto?  
+  Respuesta: El hardware debe estar completamente nuevo, sin uso, en sus empaques 
+originales sellados de fábrica, con manuales, etiquetas y accesorios completos.  
+• Pregunta: ¿Puedo arrepentirme si ya abrí el sello térmico de la tarjeta de video?  
+  Respuesta: No. El retracto exige que los sellos de seguridad del fabricante permanezcan 
+intactos. Componentes con empaques abiertos no califican para arrepentimiento.  
+• Pregunta: ¿Quién paga el costo del envío si devuelvo algo por retracto?  
+  Respuesta: Los costos asociados al transporte del producto devuelto por concepto de retracto 
+o arrepentimiento deben ser costeados en su totalidad por el cliente.  
+• Pregunta: ¿Puedo pedir la devolución del dinero si el hardware no era compatible con mi 
+PC?  
+  Respuesta: La incompatibilidad técnica no califica como falla de fábrica. Puedes acogerte a 
+retracto dentro de los 10 días siempre que el producto esté sellado.  
+• Pregunta: ¿Dónde debo enviar el producto que deseo devolver por retracto?  
+  Respuesta: Debe ser enviado o entregado en perfectas condiciones a las direcciones de 
+bodega central autorizadas por nuestro equipo de atención.  
+• Pregunta: ¿El retracto aplica si compré presencialmente en oficinas?  
+  Respuesta: Nuestra política cubre las transacciones celebradas por medios electrónicos en el 
+sitio web de conformidad con la normativa chilena.  
+• Pregunta: ¿Me devuelven el costo del despacho original si ejerzo el retracto?  
+  Respuesta: No, el derecho de retracto restituye el valor neto del producto adquirido. El costo 
+de envío original ya fue consumido por el operador logístico.  
+• Pregunta: ¿Cómo sé si mi solicitud de retracto fue aceptada?  
+  Respuesta: Una vez recibido el paquete en nuestras bodegas, se realiza un control de calidad 
+físico. Si cumple los requisitos, recibirás un correo de aprobación.  
+• Pregunta: ¿Puedo cambiar el producto devuelto por retracto por crédito en la tienda?  
+  Respuesta: Sí, al tramitar tu solicitud puedes optar por la devolución total del dinero o por la 
+emisión de un cupón de crédito digital aplicable a cualquier hardware.  
+• Pregunta: ¿Puedo devolver un computador armado a medida por retracto?  
+  Respuesta: Equipos configurados y ensamblados bajo especificaciones personalizadas del 
+cliente quedan excluidos del derecho de retracto si ya fueron manipulados.  
+• Pregunta: ¿Qué pasa si los manuales del producto se rompieron?  
+  Respuesta: Lamentablemente, si falta algún elemento del empaque original o está dañado, la 
+solicitud de retracto será rechazada por pérdida de valor comercial.  
+• Pregunta: ¿Puedo ejercer el retracto al noveno día de recibir el producto?  
+  Respuesta: Sí, siempre y cuando se ingrese la solicitud formal a contacto@antiumgear.cl 
+dentro del plazo estricto de los 10 días corridos.  
+• Pregunta: ¿Es necesario presentar la boleta para el retracto?  
+  Respuesta: Sí, de conformidad con la legislación aplicable es obligatorio adjuntar la boleta, 
+factura o comprobante electrónico de compra para cualquier trámite.  
+• Pregunta: ¿Qué pasa si el producto se daña en el trayecto de devolución a su bodega?  
+  Respuesta: El cliente es responsable del embalaje seguro para la devolución. Si llega dañado 
+por el courier, la recepción será rechazada.  
+
+4. Garantía Legal y Servicio Técnico (Garantías)  
+• Pregunta: ¿Qué plazo tengo si un componente tecnológico presenta una falla de fábrica?  
+  Respuesta: De acuerdo con la legislación vigente en Chile, cuentas con una Garantía Legal 
+de 6 meses desde la recepción del producto.  
+• Pregunta: ¿Qué opciones me da la Garantía Legal ante un desperfecto real?  
+  Respuesta: Puedes elegir libremente entre: (1) Reparación gratuita, (2) Reemplazo por un 
+componente nuevo idéntico, o (3) Devolución total del dinero.  
+• Pregunta: ¿Por qué mi tarjeta de video o procesador debe ingresar a Servicio Técnico?  
+  Respuesta: Para verificar técnicamente que la falla se debe a un defecto de fabricación 
+original y no a causas externas, negligencia o mal uso.  
+• Pregunta: ¿Cuánto tiempo tarda el diagnóstico técnico de AntiumGear?  
+  Respuesta: El plazo máximo de revisión y emisión del informe técnico oficial es de 15 días 
+hábiles desde el ingreso físico del hardware al laboratorio.  
+• Pregunta: ¿La garantía cubre si se quema un componente por overclocking?  
+  Respuesta: No, las modificaciones de frecuencia, sobrevoltajes extremos o alteración de BIOS 
+que excedan los límites de fábrica anulan por completo la garantía.  
+• Pregunta: ¿Qué pasa si mi placa madre viene con pines doblados en el socket?  
+  Respuesta: Los daños físicos visibles (pines doblados, circuitos rayados, golpes) se presumen 
+por manipulación incorrecta y están excluidos de la garantía legal.  
+• Pregunta: ¿Qué ocurre si el Servicio Técnico determina que la falla es de fábrica?  
+  Respuesta: Se procederá de inmediato a ejecutar la opción elegida por el cliente (reparación, 
+cambio o devolución) sin costo alguno.  
+• Pregunta: ¿AntiumGear paga el envío si el hardware falla por garantía dentro de los 6 
+meses?  
+  Respuesta: Sí, si el Servicio Técnico valida formalmente que el desperfecto es de fábrica, la 
+empresa reembolsará los gastos de transporte correspondientes.  
+• Pregunta: ¿La garantía legal cubre problemas de incompatibilidad de software o juegos?  
+  Respuesta: No, la garantía legal aplica exclusivamente ante fallas físicas de hardware o vicios 
+ocultos de fabricación, no por rendimiento de software de terceros.  
+• Pregunta: ¿Qué pasa si reparan mi hardware, se renueva el plazo de garantía?  
+  Respuesta: El componente reparado mantiene el remanente de su garantía original, pero el 
+tiempo que permaneció en el laboratorio técnico no se computa en tu contra.  
+• Pregunta: ¿Puedo exigir el cambio inmediato de un procesador sin que lo revisen?  
+  Respuesta: No, la ley faculta al comercio a realizar un diagnóstico técnico objetivo previo para 
+constatar la naturaleza y origen de la avería denunciada.  
+• Pregunta: ¿Qué exclusiones de energía tiene la garantía de hardware?  
+  Respuesta: Quedan excluidos los daños causados por fluctuaciones de voltaje de la red 
+eléctrica, cortes de luz o el uso de fuentes de poder no certificadas.  
+• Pregunta: ¿La garantía cubre si el producto fue manipulado por técnicos externos?  
+  Respuesta: Cualquier desarme, alteración de sellos de fábrica o intento de reparación por 
+talleres no autorizados extingue de inmediato la cobertura de garantía.  
+• Pregunta: ¿Puedo hacer valer la garantía si perdí la boleta original?  
+  Respuesta: Debes presentar un comprobante que acredite inequívocamente la compra 
+(cartola bancaria, número de transacción electrónica) para rastrear tu documento.  
+• Pregunta: ¿Qué pasa si el producto de reemplazo no está disponible en stock?  
+  Respuesta: Si eliges el cambio pero el hardware está descontinuado o agotado, podrás elegir 
+otro componente del mismo valor o solicitar la devolución del dinero.  
+
+5. Seguimiento, Recepción Segura e Incidencias (Logística)  
+• Pregunta: ¿Cómo realizo el seguimiento telemático de mi pedido?  
+  Respuesta: Apenas entreguemos la carga a Chilexpress o Starken, recibirás un correo 
+electrónico automatizado con el número de flete u Orden de Transporte (OT).  
+• Pregunta: ¿Qué debo revisar al momento en que el transportista me entregue la caja?  
+  Respuesta: Debes realizar una inspección visual externa exhaustiva. Verifica que el empaque 
+no presente abolladuras, perforaciones, humedad o roturas.  
+• Pregunta: ¿Qué hago si veo que la cinta de seguridad de AntiumGear está cortada?  
+  Respuesta: No debes recibir el paquete. Rechaza la entrega al transportista inmediatamente, 
+anota el motivo en la guía de despacho y avísanos a nuestro correo.  
+• Pregunta: ¿Qué pasa si acepto una caja visiblemente dañada y adentro el componente 
+está roto?  
+  Respuesta: Al firmar conforme la guía de entrega del transportista sin dejar observaciones 
+escritas, se extingue la responsabilidad del seguro del courier.  
+• Pregunta: ¿Cuántos intentos de entrega realiza el transportista a domicilio?  
+  Respuesta: Las empresas logísticas asociadas realizan un máximo de dos (2) intentos de 
+entrega en la dirección estipulada en tu orden de compra.  
+• Pregunta: ¿Qué sucede si no hay nadie adulto para recibir el pedido en el segundo 
+intento?  
+  Respuesta: El paquete será devuelto a la sucursal base del transportista o a nuestras 
+bodegas centrales. El reenvío posterior deberá ser pagado por el cliente.  
+• Pregunta: ¿Qué ocurre si ingresé mal mi dirección o falta el número de departamento?  
+  Respuesta: El envío puede presentar problemas de nomenclatura y ser retenido. Los costos 
+derivados de redireccionar o reenviar la carga son de cargo del cliente.  
+• Pregunta: ¿Los envíos de AntiumGear viajan protegidos contra robos?  
+  Respuesta: Sí, todos nuestros despachos viajan cubiertos por un seguro de transporte 
+contratado contra pérdidas totales, robos en ruta o siniestros viales.  
+• Pregunta: ¿Cuánto tarda en resolverse un caso si el courier pierde mi paquete?  
+  Respuesta: Una vez que el operador logístico emita la resolución formal del siniestro, 
+AntiumGear gestionará la reposición o devolución en un plazo máximo de 10 días hábiles.  
+• Pregunta: ¿Puedo pedirle al repartidor de Starken que espere a que yo pruebe el 
+procesador?  
+  Respuesta: No, los repartidores tienen protocolos estrictos de ruta y solo están obligados a 
+esperar la inspección visual externa del empaque antes de la firma.  
+• Pregunta: ¿El tracking en línea se actualiza en tiempo real?  
+  Respuesta: El avance telemático depende de las plataformas de Chilexpress y Starken. Suele 
+actualizarse en cada centro de distribución o punto de control.  
+• Pregunta: ¿Qué hago si el estado del tracking dice 'Entregado' pero no he recibido nada?  
+  Respuesta: Comunícate inmediatamente con nuestro soporte oficial para interponer un 
+reclamo por entrega errónea ante el transportista de forma prioritaria.  
+• Pregunta: ¿Puedo retirar en la bodega central de AntiumGear si hay un retraso del 
+courier?  
+  Respuesta: Una vez que el paquete cuenta con Orden de Transporte (OT) asignada, la carga 
+se encuentra bajo la custodia física del courier y no puede ser interceptada.  
+• Pregunta: ¿Se realizan despachos en días feriados institucionales?  
+  Respuesta: No, los días declarados como feriados o festivos legales no se consideran días 
+hábiles para el procesamiento ni para el despacho de mercancías.  
+• Pregunta: ¿El seguro cubre daños si abrí la caja con un elemento cortante y rayé el 
+circuito?  
+  Respuesta: No, los seguros de transporte cubren incidencias ocurridas durante el tránsito 
+logístico, no daños accidentales causados por el cliente al desembalar.  
+
+6. Privacidad, Derechos de Datos y Seguridad (Privacidad)  
+• Pregunta: ¿Qué datos personales recopila AntiumGear al comprar?  
+  Respuesta: Recopilamos datos estrictamente necesarios para la facturación y el despacho 
+logístico: nombre completo, RUT, dirección, teléfono y correo electrónico.  
+• Pregunta: ¿Cómo utiliza AntiumGear mi correo electrónico registrado?  
+  Respuesta: Lo utilizamos exclusivamente para enviarte las confirmaciones de compra, 
+documentos tributarios, estados de tracking y alertas de seguridad de tu cuenta.  
+• Pregunta: ¿AntiumGear comparte mis datos de domicilio con terceros?  
+  Respuesta: Únicamente transmitimos tus datos de entrega (nombre, dirección y teléfono) a 
+Chilexpress o Starken para ejecutar el servicio logístico contratado.  
+• Pregunta: ¿Qué son los derechos ARCO -PO y cómo puedo ejercerlos?  
+  Respuesta: Son tus derechos legales de Acceso, Rectificación, Cancelación, Oposición, 
+Portabilidad y Oposición. Puedes ejercerlos escribiendo a contacto@antiumgear.cl.  
+• Pregunta: ¿Qué medidas de seguridad técnica aplican para proteger mi información?  
+  Respuesta: Implementamos protocolos de seguridad inspirados en ISO 27001, incluyendo 
+cifrado AES -256 en reposo, conexiones HTTPS con TLS 1.3 y firewalls web (WAF).  
+• Pregunta: ¿El personal de soporte puede ver la contraseña de mi cuenta?  
+  Respuesta: No, todas las contraseñas de los usuarios se almacenan utilizando algoritmos de 
+hash unidireccionales criptográficos avanzados. Son completamente ilegibles.  
+• Pregunta: ¿Para qué se utilizan las cookies en el sitio de AntiumGear?  
+  Respuesta: Utilizamos cookies técnicas para mantener la estabilidad de tu sesión y del carrito 
+de compras, y cookies analíticas agregadas para mejorar el catálogo.  
+• Pregunta: ¿Puedo navegar y comprar en el sitio web sin aceptar cookies?  
+  Respuesta: Puedes deshabilitar las cookies en la configuración nativa de tu navegador, 
+aunque esto podría afectar la retención de productos en tu carro virtual.  
+• Pregunta: ¿Permiten el registro de menores de edad en la plataforma de e -commerce?  
+  Respuesta: No, nuestra plataforma comercial está orientada exclusivamente a personas 
+mayores de 18 años con plena capacidad legal para contratar.  
+• Pregunta: ¿Qué pasa si detectan datos de un menor de edad en el sistema?  
+  Respuesta: Se aplica de forma inmediata nuestro protocolo de eliminación definitiva de la 
+cuenta y los datos de nuestros registros, sin reclamo ulterior.  
+• Pregunta: ¿Venden bases de datos de clientes a empresas publicitarias?  
+  Respuesta: Bajo ninguna circunstancia. AntiumGear prohíbe categóricamente la 
+comercialización, arriendo o cesión ilícita de los datos de sus usuarios finales.  
+• Pregunta: ¿Cuánto tiempo conservan mis datos en sus registros?  
+  Respuesta: Los datos contables y de facturación se guardan por los plazos legales exigidos 
+por el SII. Los datos de navegación se eliminan tras perder finalidad.  
+• Pregunta: ¿Ante qué organismo puedo reclamar si siento que vulneraron mi privacidad?  
+  Respuesta: Puedes recurrir al Servicio Nacional del Consumidor (SERNAC) o interponer las 
+acciones correspondientes ante los tribunales civiles de justicia chilenos.  
+• Pregunta: ¿Qué es la autenticación multifactor (MFA) mencionada en sus políticas?  
+  Respuesta: Es una capa de seguridad interna obligatoria para nuestro personal administrador 
+de sistemas, evitando accesos no autorizados a las bases de datos.  
+• Pregunta: ¿Cuándo entró en vigencia la política de privacidad actual?  
+  Respuesta: La presente Política de Privacidad y Tratamiento de Datos Personales se 
+encuentra en vigencia absoluta desde el 1 de enero del año 2026.  
+
+7. Cuentas, Plataforma y Soporte General (T&C / FAQs)  
+• Pregunta: ¿Es obligatorio registrarse para poder comprar una tarjeta gráfica?  
+  Respuesta: No, la plataforma web permite la navegación libre y la realización de 
+transacciones bajo la modalidad de 'Invitado' sin necesidad de registro.  
+• Pregunta: ¿Qué ventajas obtengo al crear una cuenta de usuario?  
+  Respuesta: Acceso a un panel privado para ver tu historial técnico de compras, gestionar de 
+forma rápida las solicitudes de garantía y guardar direcciones.  
+• Pregunta: ¿Quién es responsable de la veracidad de los datos de registro?  
+  Respuesta: El Usuario es el único responsable de ingresar datos exactos y fidedignos. Datos 
+falsos pueden resultar en la cancelación de la orden por fraude.  
+• Pregunta: ¿Qué hago si olvidé la contraseña de mi cuenta de AntiumGear?  
+  Respuesta: Debes utilizar el enlace de 'Recuperar Contraseña' en la sección de inicio de 
+sesión para recibir un correo seguro automatizado de restablecimiento.  
+• Pregunta: ¿Quién es el dueño de las imágenes y logotipos del sitio web?  
+  Respuesta: Todo el contenido (marcas, diseños de interfaz, códigos fuente, imágenes de 
+hardware) es propiedad exclusiva de AntiumGear Ltda. o de sus fabricantes asociados.  
+• Pregunta: ¿Puedo usar software automatizado (bots) para comprar stock limitado?  
+  Respuesta: Está categóricamente prohibido el uso de bots, scrapers o scripts automatizados. 
+Su uso faculta a la empresa a bloquear la cuenta y cancelar compras.  
+• Pregunta: ¿Qué pasa si realizo un ataque informático contra el sitio web?  
+  Respuesta: Cualquier intento de alteración, denegación de servicio (DDoS) o inyección de 
+código (SQLi) será denunciado penalmente bajo las leyes informáticas chilenas.  
+• Pregunta: ¿Cuáles son los canales oficiales de atención al cliente de AntiumGear?  
+  Respuesta: El canal central regulado es nuestro correo electrónico institucional 
+contacto@antiumgear.cl, además de los formularios internos de la plataforma.  
+• Pregunta: ¿A qué comuna y ciudad corresponden los tribunales en caso de disputas 
+legales?  
+  Respuesta: Para todos los efectos legales y prórroga de competencia jurídica, las partes fijan 
+su domicilio comercial en la comuna y ciudad de Santiago de Chile.  
+• Pregunta: ¿El chatbot de soporte puede procesar reembolsos de forma autónoma?  
+  Respuesta: No, nuestro chatbot entrega orientación normativa, guía el proceso de asistencia y 
+levanta tickets. Los reembolsos son validados por analistas humanos.  
+• Pregunta: ¿Tienen convenios o descuentos especiales para empresas?  
+  Respuesta: Operamos bajo un modelo enfocado al consumidor final B2C, ofreciendo precios 
+competitivos y transparentes de manera igualitaria para todos los usuarios.  
+• Pregunta: ¿Puedo solicitar la eliminación total de mi cuenta del portal web?  
+  Respuesta: Sí, de conformidad con tus derechos ARCO, puedes pedir la eliminación definitiva 
+de tu cuenta enviando un correo al canal de contacto oficial.  
+• Pregunta: ¿Qué pasa si detecto un comportamiento extraño en mi perfil de usuario?  
+  Respuesta: Cambia tus credenciales de inmediato utilizando contraseñas seguras y notifica a 
+nuestro equipo de seguridad técnica a contacto@antiumgear.cl.  
+• Pregunta: ¿Las especificaciones técnicas de los productos son fidedignas?  
+  Respuesta: Sí, se extraen directamente de las fichas técnicas provistas por los fabricantes de 
+hardware globales (ASUS, MSI, Intel, AMD, etc.).  
+• Pregunta: ¿Puedo fusionar dos cuentas de usuario independientes?  
+  Respuesta: Lamentablemente el sistema no permite la unificación de perfiles separados 
+debido a normativas de trazabilidad contable y seguridad de datos.  
+
+8. Situaciones Especiales y Casos Borde (Casos Operacionales)  
+• Pregunta: ¿Qué pasa si compro un hardware y el precio cambió un minuto después?  
+  Respuesta: El precio aplicado a tu compra es el que aceptaste en el carro de compras al 
+pagar. Modificaciones posteriores no tienen carácter retroactivo.  
+• Pregunta: ¿El Servicio Técnico atiende consultas de soporte para armar mi PC?  
+  Respuesta: Nuestro laboratorio valida fallas de componentes específicos bajo garantía. No 
+presta servicios de asesoría general de armado o modding casero.  
+• Pregunta: ¿Qué hago si mi pedido llegó incompleto (ej. faltaron los cables)?  
+  Respuesta: Escribe de inmediato a contacto@antiumgear.cl adjuntando imágenes del 
+empaque y de los productos recibidos para auditar las grabaciones de embalaje.  
+• Pregunta: ¿Puedo transferir la garantía legal de mi componente a otra persona?  
+  Respuesta: La garantía legal se asocia al documento tributario de compra (boleta o factura). 
+Quien posea el documento legal puede hacer valer el derecho.  
+• Pregunta: ¿Qué pasa si el transportista declara mi encomienda como pérdida total?  
+  Respuesta: AntiumGear activará los seguros corporativos logísticos y gestionará de manera 
+directa el envío de un nuevo producto sin costo para ti.  
+• Pregunta: ¿Puedo pagar el costo de despacho contra entrega (por pagar)?  
+  Respuesta: No, para garantizar la fluidez de las rutas de entrega de Chilexpress y Starken, 
+todos los costos de envío deben ser prepagados en la web.  
+• Pregunta: ¿Qué ocurre si compré por error un componente físico incompatible?  
+  Respuesta: Si permanece completamente sellado y sin uso, puedes acogerte al derecho de 
+retracto comercial dentro de los primeros 10 días corridos.  
+• Pregunta: ¿Cómo sé si un componente requiere fuente de poder certificada?  
+  Respuesta: En las especificaciones del producto detallamos los requisitos mínimos de Watts 
+recomendados por el fabricante para una operación segura.  
+• Pregunta: ¿Tienen algún sistema de reservas para lanzamientos globales de GPUs?  
+  Respuesta: Los lanzamientos de hardware de alta demanda se rigen bajo el mecanismo de 
+venta estándar con validación de stock físico en tiempo real.  
+• Pregunta: ¿Qué pasa si la pasarela de pagos me cobra dos veces el mismo pedido?  
+  Respuesta: Envíanos las dos cartolas o comprobantes de cobro para realizar la auditoría con 
+el proveedor de pagos y gestionar la reversión de inmediato.  
+• Pregunta: ¿Puedo pedir factura si compré inicialmente con boleta?  
+  Respuesta: La ley chilena limita el cambio posterior de documentos tributarios emitidos. Se 
+debe seleccionar la opción correspondiente previo al cierre de compra.  
+• Pregunta: ¿El empaque reforzado de AntiumGear tiene algún logo llamativo?  
+  Respuesta: Despachamos en empaques discretos y seguros con cintas inviolables de la 
+marca, evitando logos ostentosos que comprometan la seguridad de la carga.  
+• Pregunta: ¿Qué pasa si el informe técnico descarta una falla de fábrica?  
+  Respuesta: El hardware será puesto a disposición del cliente para su devolución o reenvío. 
+Los costos de transporte de retorno serán a cargo del usuario.  
+• Pregunta: ¿Puedo pagar mediante dólares norteamericanos (USD)?  
+  Respuesta: La plataforma opera de forma estándar procesando transacciones en Pesos 
+Chilenos (CLP) de curso legal de la República de Chile.  
+• Pregunta: ¿Qué pasa si el courier entrega mi pedido a un conserje en mi edificio?  
+  Respuesta: La recepción por parte del personal de conserjería autorizado por la copropiedad 
+se entiende legalmente como una entrega válida y conforme.  

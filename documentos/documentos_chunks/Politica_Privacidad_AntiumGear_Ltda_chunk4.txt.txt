@@ -1,0 +1,13 @@
+Política de Privacidad y Tratamiento de Datos Personales – AntiumGear Ltda.
+
+7. Comunicaciones, Transferencias y Transmisiones de Datos  
+AntiumGear mantiene una estricta política de no comercialización de bases de datos. Los 
+datos únicamente se comunican de forma legítima a proveedores de infraestructura en la nube 
+(AWS, Google Cloud, Azure), pasarelas de pago y operadores logísticos debidamente 
+regulados mediante acuerdos de procesamiento de datos. 
+ 
+8. Plazos de Conservación y Destrucción Segura de Información  
+Los datos se conservarán durante el periodo estrictamente necesario para cumplir las 
+finalidades comerciales, respetando el plazo legal de cinco (5) años para documentos 
+contables conforme al Código de Comercio. Posteriormente, se procede al borrado seguro o 
+anonimización irreversible.

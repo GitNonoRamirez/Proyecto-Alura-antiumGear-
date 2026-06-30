@@ -1,0 +1,21 @@
+Política de reembolsos y devoluciones – AntiumGear Ltda.
+
+7. Plazos y Métodos de Reversión de Fondos  
+Una vez aprobado el reembolso del dinero (sea por retracto o por falla de fábrica validada), 
+AntiumGear gestionará la reversión de los fondos de acuerdo con el medio de pago original 
+utilizado por el cliente:  
+• Transferencia Bancaria o Tarjeta de Débito: El reembolso se efectuará mediante 
+transferencia electrónica directa a la cuenta provista por el titular de la compra en un plazo 
+máximo de 5 a 7 días hábiles.  
+• Tarjeta de Crédito: Se solicitará la anulación del cargo a la pasarela de pagos 
+correspondiente (Webpay/Transbank u otra), proceso que puede tardar entre 10 y 15 días 
+hábiles en verse reflejado en el estado de cuenta del cliente, dependiendo exclusivamente 
+de los tiempos bancarios de la institución emisora.  
+
+8. Exclusiones de Garantía  
+Quedan completamente excluidos de la cobertura de garantía los siguientes eventos: daños 
+provocados por cortes de energía, fluctuaciones de voltaje o uso de fuentes de poder no 
+certificadas; incompatibilidad de software o BIOS modificadas de forma errónea por el usuario; 
+quema de componentes por prácticas de overclocking extremo que excedan los límites del 
+fabricante; y daños físicos visibles como pines doblados en placas madre, rayones en los 
+circuitos o quiebres por caídas. 
