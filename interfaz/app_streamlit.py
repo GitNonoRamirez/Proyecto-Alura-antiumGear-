@@ -1,75 +1,45 @@
 import streamlit as st
-import time
-import pandas as pd
-from components.fuentes import mostrar_fuentes
-from components.feedback import mostrar_botones_feedback
-from session_manager import inicializar_historial, agregar_interaccion, obtener_historial
-from monitoring.metrics import inicializar_metrics, registrar_metricas, calcular_estadisticas, METRICS_FILE
+import os
+from session_manager import get_session, update_session
+from fuentes import mostrar_fuentes
+from feedback import mostrar_botones_feedback
+from buscador import buscar_en_csv   # ✅ usamos nuestro buscador con CSV
 
-# Configuración básica de la página
-st.set_page_config(page_title="Agente AntiumGear", layout="wide")
+st.set_page_config(page_title="Agente IA AntiumGear", layout="wide")
 
-# Aviso destacado de agente IA
-st.warning("⚠️ Estás conversando con un **Agente de IA**. No es una persona real.")
+col1, col2 = st.columns([1, 2])
 
-# Inicializar historial y métricas
-inicializar_historial()
-inicializar_metrics()
+with col1:
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    fondo_path = os.path.join(BASE_DIR, "..", "assets", "logo_fondo_gamer.png")
+    if os.path.exists(fondo_path):
+        st.image(fondo_path, use_container_width=True)
+    else:
+        st.warning("No se encontró la imagen del logo con fondo gamer.")
 
-# Campo de entrada de la pregunta
-user_input = st.text_input("Escribe tu pregunta:")
+with col2:
+    st.markdown("## 🤖 Chat AntiumGear")
+    st.info("Estás conversando con un agente de IA que responde usando documentos oficiales de AntiumGear.")
 
-# Simulación de respuesta del agente (por ahora)
-def get_agent_response(query):
-    return {
-        "respuesta": f"Respuesta simulada para: {query}",
-        "fuentes": ["Politica_Privacidad.txt", "Terminos_Condiciones.txt"]
-    }
+    session = get_session()
+    historial = st.container(height=480)
 
-# Procesar la pregunta
-if user_input:
-    inicio = time.time()
-    result = get_agent_response(user_input)
-    agregar_interaccion(user_input, result["respuesta"], result["fuentes"])
+    for idx, item in enumerate(session):
+        with historial.chat_message("user"):
+            st.write(item["pregunta"])
+        with historial.chat_message("assistant"):
+            st.write(item["respuesta"])
+            if item["fuentes"]:
+                mostrar_fuentes(item["fuentes"])
+            mostrar_botones_feedback(item["pregunta"], item["respuesta"], item["fuentes"], idx)
 
-    # Registrar métricas de esta interacción
-    registrar_metricas(user_input, result["respuesta"], inicio, feedback_negativo=False)
+    pregunta = st.chat_input("Escribe tu mensaje aquí...")
+    if pregunta:
+        if pregunta.lower() in ["hola", "buenas", "hi"]:
+            respuesta, fuentes = "¡Hola! ¿En qué puedo ayudarte?", []
+        else:
+            # ✅ Buscar en CSV maestro
+            respuesta, fuentes = buscar_en_csv(pregunta)
 
-# Mostrar historial de conversación
-st.markdown("### Historial de conversación")
-for i, item in enumerate(obtener_historial()):
-    st.markdown(f"**Tú:** {item['pregunta']}")
-    st.markdown(f"**Agente:** {item['respuesta']}")
-
-    # Visualización clara de fuentes
-    mostrar_fuentes(item['fuentes'])
-
-    # Botones de feedback con registro en CSV
-    mostrar_botones_feedback(item['pregunta'], item['respuesta'], item['fuentes'], i)
-
-    st.markdown("---")
-
-# Mostrar métricas de calidad agregadas
-stats = calcular_estadisticas()
-st.markdown("### 📊 Métricas de calidad")
-st.write(stats)
-
-# Mostrar gráficos si existe metrics.csv
-if METRICS_FILE.exists():
-    df = pd.read_csv(METRICS_FILE)
-
-    # Gráfico 1: % preguntas sin respuesta vs con respuesta
-    sin_res = df["sin_respuesta"].sum()
-    con_res = len(df) - sin_res
-    st.markdown("#### 📈 Distribución de respuestas")
-    st.bar_chart(pd.DataFrame({"Respuestas": [con_res, sin_res]}, index=["Con respuesta", "Sin respuesta"]))
-
-    # Gráfico 2: Feedback negativo vs positivo
-    neg = df["feedback_negativo"].sum()
-    pos = len(df) - neg
-    st.markdown("#### 💬 Feedback de usuarios")
-    st.bar_chart(pd.DataFrame({"Feedback": [pos, neg]}, index=["Positivo", "Negativo"]))
-
-    # Gráfico 3: Tiempo de respuesta histórico
-    st.markdown("#### ⏱️ Tiempo de respuesta por interacción")
-    st.line_chart(df["tiempo_respuesta"])
+        update_session(pregunta, respuesta, fuentes)
+        st.rerun()

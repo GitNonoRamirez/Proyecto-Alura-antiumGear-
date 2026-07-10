@@ -1,0 +1,68 @@
+pregunta;respuesta;fuentes;feedback
+
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;negativo
+hola;¡Hola! ¿En qué puedo ayudarte?;;negativo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;negativo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;negativo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;negativo
+hola;¡Hola! ¿En qué puedo ayudarte?;;negativo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;positivo
+quiero devolver algo;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;negativo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;positivo
+quiero devolver;Respuesta generada...;Terminos_Condiciones.txt;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;positivo
+quiero devolver unos audifonos;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero un reembolso;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiro hacer una devolucion;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero cambiar;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero hacer una devolucion;Respuesta generada...;Terminos_Condiciones.txt;positivo
+reembolso;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+que dia es hoy?;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+Quiero hacer una devolución de un producto, Cuántos dias tengo para hacerlo?;Error al buscar en documentos: No module named 'functions';;negativo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+¿Cuántos días tengo para devolver un producto?;Error al buscar en CSV: name 'pd' is not defined;;negativo
+"¿Cuántos días tengo para devolver un producto?
+
+";Puedes devolver un producto dentro de 10 días corridos desde la recepción si está sin uso y en su empaque original. Además, cuentas con 6 meses de garantía legal en caso de fallas de fábrica.;Política de Reembolsos y Devoluciones – AntiumGear Ltda.;positivo
+como manejan mis datos personales?;Tus datos personales se tratan bajo principios de licitud, finalidad y seguridad. AntiumGear solo los usa para fines explícitos como gestión de compras, soporte y cumplimiento legal, y nunca se comparten sin tu consentimiento.;Política de Privacidad – AntiumGear Ltda.;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo

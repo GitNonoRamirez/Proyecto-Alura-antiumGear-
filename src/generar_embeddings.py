@@ -1,30 +1,26 @@
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
 import os
+import pandas as pd
 
-# Definir el modelo correcto (puedes usar gemini-embedding-001, gemini-embedding-2, etc.)
-embeddings = GoogleGenerativeAIEmbeddings(model="models/gemini-embedding-001")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+EMBEDDINGS_DIR = os.path.join(BASE_DIR, "..", "documentos", "documentos_embeddings")
+OUTPUT_DIR = os.path.join(BASE_DIR, "..", "documentos", "documentos_metadatos")
 
-# Carpeta donde están tus chunks
-carpeta_chunks = "documentos/documentos_chunks"
-carpeta_salida = "documentos/documentos_embeddings"
-os.makedirs(carpeta_salida, exist_ok=True)
-
-# Recorrer todos los archivos de texto en la carpeta de chunks
-for archivo in os.listdir(carpeta_chunks):
+rows = []
+for archivo in os.listdir(EMBEDDINGS_DIR):
     if archivo.endswith(".txt"):
-        ruta = os.path.join(carpeta_chunks, archivo)
-        with open(ruta, "r", encoding="utf-8") as f:
-            texto = f.read()
+        ruta = os.path.join(EMBEDDINGS_DIR, archivo)
+        with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
+            vector = f.read()
+        # ejemplo: embedding_Politica_Reembolsos_chunk3.txt → Politica_Reembolsos_chunk3.txt
+        nombre_chunk = archivo.replace("embedding_", "")
+        rows.append({
+            "archivo_chunk": nombre_chunk,
+            "embedding_vector": vector.strip()
+        })
 
-        # Generar embedding
-        vector = embeddings.embed_query(texto)
-
-        # Guardar embedding con el mismo nombre del chunk
-        salida = os.path.join(carpeta_salida, f"embedding_{archivo}")
-        with open(salida, "w", encoding="utf-8") as f:
-            f.write(str(vector))
-
-        print(f"Embedding generado: {salida}")
+df = pd.DataFrame(rows)
+df.to_csv(os.path.join(OUTPUT_DIR, "metadatos_embeddings.csv"),
+          sep=";",
 
 
 

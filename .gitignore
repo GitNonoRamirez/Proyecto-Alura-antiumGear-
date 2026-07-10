@@ -1,0 +1,13 @@
+# Ocultar archivos sensibles
+.env
+config.py
+
+# Ignorar cachés y temporales
+__pycache__/
+*.log
+*.tmp
+*.swp
+
+# Ignorar configuraciones locales
+.vscode/
+.idea/
