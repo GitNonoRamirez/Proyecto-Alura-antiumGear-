@@ -117,11 +117,11 @@ Proyecto-Alura-antiumGear-/
 
 ### Respuesta
 
-**Fuente:** `Politica_Reembolsos_Devoluciones_AntiumGear.pdf`
+**Fuentes utilizadas:** `Politica_Reembolsos_Devoluciones_AntiumGear.pdf.pdf`
 
-El plazo para realizar la devolución de un producto depende del motivo de la solicitud, según se detalla en nuestra Política de Reembolsos. Si deseas ejercer el Derecho de Retracto en compras realizadas a través de medios electrónicos, dispones de un plazo de **10 días** contados desde la recepción del producto, siempre que este se encuentre en perfectas condiciones y con sus sellos intactos.
+El plazo para realizar la devolución de un producto depende del motivo de la solicitud, según se detalla en nuestra Política de Reembolsos. Si deseas ejercer el Derecho de Retracto en compras realizadas a través de medios electrónicos, dispones de un plazo de 10 días contados desde la recepción del producto, siempre que este se encuentre en perfectas condiciones y con sus sellos intactos.
 
-Por otro lado, si el producto presenta fallas técnicas de fabricación, cuentas con una Garantía Legal de **6 meses** contados desde la fecha de recepción o retiro del artículo, sometiéndose previamente a un diagnóstico técnico.
+Por otro lado, si el producto presenta fallas técnicas de fabricación, cuentas con una Garantía Legal de 6 meses contados desde la fecha de recepción o retiro del artículo. En este caso, el producto deberá ser sometido a un proceso de diagnóstico técnico para validar el origen de la falla antes de proceder con el cambio o la devolución del dinero.
 
 ![Captura del chatbot respondiendo sobre plazos de devolución](assets/capturas/pregunta_1.png)
 
@@ -132,9 +132,11 @@ Por otro lado, si el producto presenta fallas técnicas de fabricación, cuentas
 
 ### Respuesta
 
-**Fuente:** `Guia_Envios_Entregas_AntiumGear.pdf`
+**Fuentes utilizadas:** `Guia_Envios_Entregas_AntiumGear.pdf.pdf`
 
-De acuerdo con la Guía de Envíos, los pedidos se despachan a través de los transportistas regulados de alta cobertura **Chilexpress** y **Starken**. AntiumGear mantiene alianzas estratégicas con estos operadores logísticos para garantizar el traslado seguro de los componentes tecnológicos a lo largo de todo el territorio continental de Chile.
+De acuerdo con la Guía de Envíos de la empresa, los pedidos se despachan a través de los transportistas regulados de alta cobertura Chilexpress y Starken.
+
+AntiumGear mantiene alianzas estratégicas con estos operadores logísticos para garantizar el traslado seguro de los componentes tecnológicos directamente al consumidor final a lo largo de todo el territorio continental de Chile.
 
 ![Captura del chatbot respondiendo sobre transportistas de envío](assets/capturas/pregunta_2.png)
 
@@ -145,9 +147,11 @@ De acuerdo con la Guía de Envíos, los pedidos se despachan a través de los tr
 
 ### Respuesta
 
-**Fuente:** `Politica_Privacidad_AntiumGear_Ltda.pdf`
+**Fuentes utilizadas:** `Politica_Privacidad_AntiumGear_Ltda.pdf.pdf`
 
-De acuerdo con la Política de Privacidad, AntiumGear mantiene una estricta política de no comercialización de bases de datos: no se venden datos personales a terceros bajo ninguna circunstancia. La información solo se comunica a socios estratégicos necesarios para la operación (proveedores de infraestructura cloud, pasarelas de pago, operadores logísticos), bajo acuerdos de procesamiento de datos.
+De acuerdo con lo establecido en nuestra 'Política de Privacidad', en AntiumGear mantenemos una estricta política de no comercialización de bases de datos, lo que significa que no vendemos sus datos personales a terceros bajo ninguna circunstancia.
+
+La información recopilada únicamente se comunica de forma legítima a socios estratégicos necesarios para la operación, tales como proveedores de infraestructura en la nube (AWS, Google Cloud y Azure), pasarelas de pago y operadores logísticos (como Chilexpress o Starken). Todas estas transferencias se realizan bajo estrictos acuerdos de procesamiento de datos para garantizar la seguridad y privacidad de su información.
 
 ![Captura del chatbot respondiendo sobre tratamiento de datos personales](assets/capturas/pregunta_3.png)
 
@@ -158,9 +162,13 @@ De acuerdo con la Política de Privacidad, AntiumGear mantiene una estricta pol�
 
 ### Respuesta
 
-**Fuente:** `Guia_Envios_Entregas_AntiumGear.pdf`
+*Esta pregunta no está respondida literalmente en ningún documento — el agente construye la respuesta razonando sobre el modelo operativo descrito en la Guía de Envíos.*
 
-Esta pregunta no tiene una respuesta literal en ningún documento, pero el agente es capaz de inferirla correctamente a partir del modelo de operación descrito en la Guía de Envíos: AntiumGear no cuenta con tienda física en Concepción, ya que su operación logística se centraliza en Santiago, desde donde se despacha a todo el territorio nacional mediante alianzas con Chilexpress y Starken.
+**Fuentes utilizadas:** `Guia_Envios_Entregas_AntiumGear.pdf.pdf`
+
+AntiumGear Ltda. no cuenta con tienda física en Concepción, ya que su operación logística se centraliza en Santiago, desde donde se realizan los despachos a todo el territorio nacional. Según nuestra Guía de Envíos, la empresa opera bajo un modelo de comercio electrónico que utiliza alianzas con transportistas como Chilexpress y Starken para hacer llegar los productos directamente al domicilio del cliente o a una sucursal del operador logístico.
+
+La empresa centraliza su atención y gestión desde su domicilio legal ubicado en Av. Andrés Bello 2711, Las Condes, Santiago. Para cualquier consulta adicional, puedes comunicarte a través de los canales oficiales detallados en nuestra Guía de Envíos.
 
 ![Captura del chatbot respondiendo sobre tienda física](assets/capturas/pregunta_4.png)
 
@@ -171,7 +179,7 @@ Esta pregunta no tiene una respuesta literal en ningún documento, pero el agent
 
 ### Respuesta
 
-**Fuente:** Ninguna — la pregunta no supera el umbral de confianza en ninguna de las dos capas de búsqueda, y el guardrail evita mostrar una fuente cuando no se usó ninguna.
+**Fuentes utilizadas:** Ninguna — la pregunta no supera el umbral de confianza en ninguna de las dos capas de búsqueda, y el guardrail evita mostrar una fuente cuando no se usó ninguna.
 
 Lo siento, no tengo la respuesta a tu consulta. Nuestro equipo puede ayudarte si nos contactas en contacto@antiumgear.cl.
 
