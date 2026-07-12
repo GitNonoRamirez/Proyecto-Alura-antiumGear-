@@ -1,0 +1,90 @@
+pregunta;respuesta;fuentes;feedback
+
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;negativo
+hola;¡Hola! ¿En qué puedo ayudarte?;;negativo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;negativo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;negativo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;negativo
+hola;¡Hola! ¿En qué puedo ayudarte?;;negativo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;positivo
+quiero devolver algo;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;negativo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;positivo
+quiero devolver;Respuesta generada...;Terminos_Condiciones.txt;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;positivo
+quiero devolver unos audifonos;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero un reembolso;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiro hacer una devolucion;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero cambiar;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero hacer un cambio;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+quiero hacer una devolucion;Respuesta generada...;Terminos_Condiciones.txt;positivo
+reembolso;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+que dia es hoy?;Respuesta generada...;Terminos_Condiciones.txt;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+Quiero hacer una devolución de un producto, Cuántos dias tengo para hacerlo?;Error al buscar en documentos: No module named 'functions';;negativo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+¿Cuántos días tengo para devolver un producto?;Error al buscar en CSV: name 'pd' is not defined;;negativo
+"¿Cuántos días tengo para devolver un producto?
+
+";Puedes devolver un producto dentro de 10 días corridos desde la recepción si está sin uso y en su empaque original. Además, cuentas con 6 meses de garantía legal en caso de fallas de fábrica.;Política de Reembolsos y Devoluciones – AntiumGear Ltda.;positivo
+como manejan mis datos personales?;Tus datos personales se tratan bajo principios de licitud, finalidad y seguridad. AntiumGear solo los usa para fines explícitos como gestión de compras, soporte y cumplimiento legal, y nunca se comparten sin tu consentimiento.;Política de Privacidad – AntiumGear Ltda.;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+cuantos dias tengo para devovler un producto?;Lo siento, ocurrió un error al procesar tu consulta: Error embedding content (NOT_FOUND): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/embedding-001 is not found for API version v1beta, or is not supported for embedContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}};;negativo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+¿Cuantos días tengo para devolver un producto?;"De acuerdo con la **Política de Reembolsos** de la empresa, el plazo para devolver un producto depende del motivo de la solicitud. Si se trata de una devolución por Derecho de Retracto (para compras realizadas a través de medios electrónicos y sin expresión de causa), usted dispone de un plazo de **10 días** contados desde la recepción del producto, siempre y cuando se devuelva en perfectas condiciones, con sus sellos y embalajes originales intactos.
+
+Por otro lado, si el producto presenta fallas técnicas de fabricación o estructurales, usted puede hacer uso de la Garantía Legal. Para esto, dispone de un plazo de **6 meses** contados desde la fecha de recepción o retiro del producto, lo que le permitirá optar por la devolución total de su dinero, el cambio del producto o su reparación gratuita, previo proceso de diagnóstico en el servicio técnico.";Politica_Reembolsos_Devoluciones_AntiumGear.pdf.pdf;positivo
+hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+¿Tienen tienda física en Concepción?;"Lo siento, no tengo la respuesta a tu consulta. 
+  Nuestro equipo puede ayudarte si nos contactas en contacto@antiumgear.cl.";;positivo
+Hola;¡Hola! ¿En qué puedo ayudarte?;;positivo
+¿Puedo cambiar un producto si no me gustó?;"De acuerdo con la 'Política de Reembolsos' de AntiumGear, sí es posible devolver el producto si no te gustó, siempre y cuando la compra se haya realizado a través de medios electrónicos (e-commerce). Bajo el Derecho de Retracto Comercial, cuentas con un plazo de 10 días contados desde la recepción del producto para rescindir el contrato de compraventa sin expresión de causa.
+
+Para que este cambio o devolución por retracto sea procesado, el producto debe ser devuelto en perfectas condiciones, con sus sellos de fábrica intactos, embalajes originales sin aperturas y con todos sus accesorios completos. Asimismo, no se aceptarán componentes de hardware que muestren signos de haber sido atornillados o instalados, o cuyas etiquetas de número de serie hayan sido removidas o alteradas.";Politica_Reembolsos_Devoluciones_AntiumGear.pdf.pdf;positivo
+¿Ustedes venden mis datos a terceros?;"De acuerdo con lo establecido en nuestra 'Política de Privacidad', en AntiumGear mantenemos una estricta política de no comercialización de bases de datos, lo que significa que no vendemos su información personal a terceros bajo ninguna circunstancia.
+
+Sus datos únicamente se comunican de forma legítima a proveedores de infraestructura en la nube (tales como AWS, Google Cloud y Azure), pasarelas de pago y operadores logísticos necesarios para la operación, todos los cuales están debidamente regulados mediante acuerdos de procesamiento de datos para garantizar la seguridad de su información.";Politica_Privacidad_AntiumGear_Ltda.pdf.pdf;positivo
+¿Cuántos días tengo para devolver un producto?;"De acuerdo con la 'Política de Reembolsos' de AntiumGear, el plazo para devolver un producto depende del motivo de la devolución. Si la compra se realizó a través de medios electrónicos (comercio electrónico) y desea realizar la devolución sin expresión de causa bajo el Derecho de Retracto, usted dispone de un plazo de **10 días** contados desde la recepción del producto. Para esto, el artículo debe ser devuelto en perfectas condiciones, con sus embalajes y accesorios originales, y con los sellos de fábrica intactos. 
+
+Por otro lado, si la devolución se solicita debido a que el producto presenta fallas técnicas de fabricación o de funcionamiento, usted cuenta con un plazo de **6 meses** contados desde la fecha de recepción o retiro para hacer efectiva la Garantía Legal. Bajo esta modalidad, y previa evaluación del servicio técnico, podrá optar por la devolución total del dinero, el cambio del producto o su reparación gratuita.";Politica_Reembolsos_Devoluciones_AntiumGear.pdf.pdf;positivo
+¿Ustedes venden mis datos a terceros? ;"De acuerdo con nuestra 'Política de Privacidad', AntiumGear Ltda. mantiene una estricta política de no comercialización de bases de datos, por lo que no vende sus datos personales a terceros. 
+
+La información recopilada únicamente se comunica de forma legítima a proveedores de infraestructura en la nube (como AWS, Google Cloud y Azure), pasarelas de pago y operadores logísticos debidamente regulados mediante acuerdos de procesamiento de datos para garantizar el correcto cumplimiento de los servicios contratados.";Politica_Privacidad_AntiumGear_Ltda.pdf.pdf;positivo
