@@ -185,6 +185,14 @@ Lo siento, no tengo la respuesta a tu consulta. Nuestro equipo puede ayudarte si
 
 ![Captura del chatbot derivando a soporte ante una pregunta fuera de alcance](assets/capturas/pregunta_5.png)
 
+## 🌐 Despliegue
+ 
+La aplicación está desplegada y disponible públicamente en Streamlit Community Cloud:
+ 
+🔗 **[https://antiumgear-chatbot.streamlit.app/](https://antiumgear-chatbot.streamlit.app/)**
+ 
+Cualquier persona puede acceder al link y probar el chatbot directamente, sin necesidad de instalar nada localmente.
+
 ---
 
 ## Estado actual y próximos pasos
